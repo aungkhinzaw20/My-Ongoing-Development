@@ -13,6 +13,7 @@ namespace RoomMaintenanceTracking
         public static string RoomNumberPrefix;
         public static int DueDate;
         public static DateTime EndDate;
+        public static DateTime helloworld;
         public static DateTime StartDate;
         public static string inschedule;
         public static string indue;
