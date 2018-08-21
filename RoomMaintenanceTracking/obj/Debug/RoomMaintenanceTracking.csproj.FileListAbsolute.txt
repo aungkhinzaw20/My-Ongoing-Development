@@ -1,0 +1,14 @@
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\bin\Debug\RoomMaintenanceTracking.exe.config
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\bin\Debug\RoomMaintenanceTracking.exe
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\bin\Debug\RoomMaintenanceTracking.pdb
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.csprojResolveAssemblyReference.cache
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.Form1.resources
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.Maintenance.resources
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.MyMenu.resources
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.Properties.Resources.resources
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.RoomInformationListing.resources
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.RoomList.resources
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.csproj.GenerateResource.Cache
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.csproj.CoreCompileInputs.cache
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.exe
+C:\Users\khin-zaw.aung\source\repos\RoomMaintenanceTracking\RoomMaintenanceTracking\obj\Debug\RoomMaintenanceTracking.pdb
